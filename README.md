@@ -51,32 +51,32 @@
 
 <div align="center">
 
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somnath0904&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnath0904&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somnath0904&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somnath0904&theme=radical">
+//<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somnath0904&theme=radical">
+<!-- <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnath0904&theme=radical"> -->
+<!-- <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somnath0904&theme=radical"> -->
+<!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somnath0904&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=somnath0904&theme=radical&utcOffset=8">
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=somnath0904&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=somnath0904&theme=radical">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=somnath0904&theme=radical"> -->
 
 </div><br>
 
 # 🎖 Badges
 
 <details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<!--  <summary><b>GSSOC(24) Badges 🪶</b></summary><br> -->
+<!-- <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /></a>
-</div>
+</div> -->
 </details>
 <br>
 <details>	
- <summary><b>OctoHub Badges 🪶</b></summary><br>
+<!--  <summary><b>OctoHub Badges 🪶</b></summary><br>
 	<a href="https://discord.gg/qg8N7dq7tZ">
 		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/0" alt="OctoHub 2023 Level 0" />
 		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/1" alt="OctoHub 2023 Level 1" />
@@ -84,7 +84,7 @@
 		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/3" alt="OctoHub 2023 Level 3" />
 		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/4" alt="OctoHub 2023 Level 4" />
 	</a>
-</div>
+</div> -->
 </details>
 <br>
 <!--
