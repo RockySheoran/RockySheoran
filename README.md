@@ -40,7 +40,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,tailwind,vite,mongodb,postman,javavercel,git,bash&perline=11" />
+<img src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,react,nodejs,tailwind,vite,mongodb,javavercel,git,bash&perline=11" />
 </a>
 
 </div>
