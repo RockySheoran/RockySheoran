@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on Web Development and DSA.
 - 🌱 I’m currently learning Backand and database.
 - 👯 I’m looking to collaborate with open source enthusiasts and developers.
-- 🥅 2024 Goals: Learn DevOps, Nextjs, MongoDB And strengthen DSA.
+- 🥅 2024 Goals: Learn DevOps,Full Stack Development And strengthen DSA.
 
 <br>
 
