@@ -14,11 +14,11 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Student and Web Developer.
-- 🔭 I’m currently working on Web Development and DSA.
-- 🌱 I’m currently learning Backand and database.
+- 🎓 I'm a Student and MERN Stack Developer.
+- 🔭 I’m currently working on MERN Stack Development and DSA.
+- 🌱 I’m currently learning advance topic Backand and database.
 - 👯 I’m looking to collaborate with open source enthusiasts and developers.
-- 🥅 2024 Goals: Learn DevOps,Full Stack Development And strengthen DSA.
+- 🥅 2025 Goals: Learn DevOps,Full Stack Development And strengthen DSA.
 
 <br>
 
