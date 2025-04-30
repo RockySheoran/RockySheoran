@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-<div id="header" align="center">
+<div align="center">
 
-<h1>Hey there, Rocky this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>Hey there, Rocky this side! <img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 
 </div>
 
@@ -14,11 +14,12 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Student and MERN Stack Developer.
-- 🔭 I’m currently working on MERN Stack Development and DSA.
-- 🌱 I’m currently learning advance topic Backand and database.
-- 👯 I’m looking to collaborate with open source enthusiasts and developers.
-- 🥅 2025 Goals: Learn DevOps,Full Stack Development And strengthen DSA.
+- 🎓 Computer Science Student & Full Stack Developer
+- 🔭 Currently building scalable web applications with modern tech stacks
+- 🌱 Mastering Advanced Backend, Cloud Architecture, and System Design
+- 🧠 DSA Specialist 190+ problems solved on LeetCode 
+- 💡 Passionate about solving complex problems with elegant solutions
+- 🚀 Open to collaborating on innovative projects
 
 <br>
 
@@ -26,90 +27,90 @@
 
 <div align="center">
 
-<a href="https://instagram.com/rocky-sheoran61" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/rocky-77a984267" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="[https://twitter.com/somnath9411](https://x.com/RockySheor71?t=0y5Fc8jiJQQ9hxdJIUBYEQ&s=08)" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rocky-sheoran61)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rocky-77a984267)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RockySheor71)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/yourprofile)
+
 
 </div>
 
 <br>
 
+## 🛠️ Tech Stack
 
-## 💻 Tech Stack:
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+  <a href="https://ui.shadcn.com" target="_blank">
+    <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=radixui&logoColor=white" alt="shadcn/ui"/>
+  </a>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br>
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,react,nodejs,tailwind,vite,mongodb,express,redux,postman,axios,javavercel,git,bash&perline=11" />
-</a>
+![Rocky's GitHub stats](https://github-readme-stats.vercel.app/api?username=RockySheoran&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RockySheoran&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=RockySheoran&theme=radical)
 
 </div>
 
 <br>
-<!--
-## 📊 GitHub Stats:
+
+## �♂️ LeetCode Stats
+
 <div align="center">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somnath0904&theme=radical">
-<!-- <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnath0904&theme=radical"> -->
-<!-- <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somnath0904&theme=radical"> -->
-<!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somnath0904&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=somnath0904&theme=radical&utcOffset=8">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=somnath0904&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=somnath0904&theme=radical"> 
-</div><br>-->
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/rockysheoran72?theme=dark&font=Abel&ext=heatmap)
 
-<!-- 
-# 🎖 Badges
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br> 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /></a>
 </div>
-	
-</details>  -->
+
 <br>
-<!--
-<details>
-  <summary><b>OctoHub Badges 🪶</b></summary><br>
-	<a href="https://discord.gg/qg8N7dq7tZ">
-		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/0" alt="OctoHub 2023 Level 0" />
-		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/1" alt="OctoHub 2023 Level 1" />
-		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/2" alt="OctoHub 2023 Level 2" />
-		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/3" alt="OctoHub 2023 Level 3" />
-		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/4" alt="OctoHub 2023 Level 4" />
-	</a>
-</div> -->
-	<!--
-</details>
-<br>
- -->
-	<!--
-<details>
-  <summary><b> HoloPin Badges </b></summary>
-[![@somnath0904's Holopin board](https://holopin.me/somnath0904)](https://www.holopin.io/@somnath0904#)
-</details><br/>
--->
+
+
 
 <hr>
 
-<p align="center">
-  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://buymeacoffee.com/somnath0904" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
-  </a>
-</p>
-<!--
----
-### 🎎 Visitors count: <p align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=somnath0904&label=Profile%20views&color=0e75b6&style=flat" alt="somnath0904" /> </p> <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
--->
+### ☕ Buy Me a Coffee
+
+If you like what I do and want to support me, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/yourusername)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
