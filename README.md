@@ -17,7 +17,7 @@
 - 🎓 Computer Science Student & Full Stack Developer
 - 🔭 Currently building scalable web applications with modern tech stacks
 - 🌱 Mastering Advanced Backend, Cloud Architecture, and System Design
-- 🧠 DSA Specialist 190+ problems solved on LeetCode 
+- 🧠 DSA Specialist 200+ problems solved on LeetCode 
 - 💡 Passionate about solving complex problems with elegant solutions
 - 🚀 Open to collaborating on innovative projects
 
