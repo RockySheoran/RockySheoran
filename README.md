@@ -14,12 +14,12 @@
 
 ### 💫 About Me
 
-- 🎓 Computer Science Student & Full Stack Developer
+- 🎓 Computer Science and Engineering Student & Full Stack Developer
 - 🔭 Currently building scalable web applications with modern tech stacks
-- 🌱 Mastering Advanced Backend, Cloud Architecture, and System Design
-- 🧠 DSA Specialist 200+ problems solved on LeetCode 
+- 🌱 Mastering Advanced Backend, Cloud Architecture, and Devops , 
+- 🧠 DSA Specialist 220+ problems solved on LeetCode 
 - 💡 Passionate about solving complex problems with elegant solutions
-- 🚀 Open to collaborating on innovative projects
+- 🚀 Open to collaborating on innovative projects And Open Sources Projects
 
 <br>
 
@@ -53,13 +53,15 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
   
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-DC382D?style=for-the-badge&logo=sql&logoColor=white)
+
 
 
 ### DevOps & Cloud
