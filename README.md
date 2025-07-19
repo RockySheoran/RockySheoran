@@ -53,14 +53,14 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io)
   
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-DC382D?style=for-the-badge&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
@@ -73,11 +73,19 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+
+### AI & Tool
+![LLM](https://img.shields.io/badge/LLM-Generative%20AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
+![MCP Server](https://img.shields.io/badge/MCP%20Server-Model%20Context%20Protocol-green?style=for-the-badge&logo=serverfault&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-orange?style=for-the-badge&logo=vector-search&logoColor=white)
+ ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-74aa9c?style=for-the-badge&logo=openai)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-36454F?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-Google%20DeepMind-8E75B2?style=for-the-badge&logo=google-deepmind&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-xAI-ff6600?style=for-the-badge) 
 <br>
 
-## 📈 GitHub Stats
+
 
 <div align="center">
 
@@ -111,7 +119,7 @@
 
 If you like what I do and want to support me, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/yourusername)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)]()
 
 </div>
 
