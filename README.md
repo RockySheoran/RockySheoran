@@ -119,7 +119,7 @@
 
 If you like what I do and want to support me, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)]
+![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
 
 </div>
 
